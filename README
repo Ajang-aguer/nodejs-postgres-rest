@@ -1,1 +1,6 @@
 Node js, postgreSQL, and REST
+
+-execute database.sql
+
+-npm install
+-npm start
